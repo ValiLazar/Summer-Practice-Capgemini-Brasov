@@ -88,10 +88,15 @@ vgaGreen[3:0]: Pins D17, G17, H17, J17
 
 vgaBlue[3:0]: Pins J18, K18, L18, N18
 
-![img1](https://github.com/user-attachments/assets/233a3ab8-4a86-49b9-a720-41fffcbcf739)  
-![img2](https://github.com/user-attachments/assets/aad6efb3-906a-4e43-96c3-2119b61978b0)
+![img1](https://github.com/user-attachments/assets/97842100-18fd-49c9-a484-b40addd63ffb)
+![img2](https://github.com/user-attachments/assets/8840b3c4-cde9-45ec-91a4-1f32c24fa3b8)
 
 
-https://github.com/user-attachments/assets/64e6ef92-92e5-4c3d-950a-b1e785c26745
+
+https://github.com/user-attachments/assets/217c9e76-150b-41f8-b92b-b3a0a3f9ff54
+
+
+
+
 
 
